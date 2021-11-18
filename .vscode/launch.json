@@ -1,5 +1,13 @@
 {
     "configurations": [
+        
+        {
+            "type": "java",
+            "name": "Launch LearningApplication",
+            "request": "launch",
+            "mainClass": "src.main.java.it.cristiano.learning.LearningApplication",
+            "projectName": "learning"
+        },
         {
             "type": "java",
             "name": "Spring Boot-LearningApplication<learning>",
